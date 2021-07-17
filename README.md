@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @woodwardmw
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning R and Python
-- 📫 How to reach me twitter.com/DataScienceMW
+- 📫 How to reach me [twitter.com/DataScienceMW](url)
 
 <!---
 woodwardmw/woodwardmw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
