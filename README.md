@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @woodwardmw
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning R and Python
+- 👀 I’m interested in Data Science and Machine Learning, with a focus on Natural Language Processing in under-resourced languages
+- 🌱 I’m currently learning Python and NLP
 - 📫 How to reach me [twitter.com/DataScienceMW](https://twitter.com/DataScienceMW)
 
 <!---
