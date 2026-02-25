@@ -1,6 +1,6 @@
 ## Hi, I'm Mark Woodward
 
-Machine Learning Engineer at **[SIL Global](https://www.sil.org)**, building and evaluating NLP and speech models for low-resource languages.
+Director of AI Engineering at **[SIL Global](https://www.sil.org)**, building and evaluating NLP and speech models for low-resource languages.
 
 ### What I work on
 - Fine-tuning large multilingual models (NLLB, MADLAD, T5Gemma, TranslateGemma) for 50+ low-resource language pairs
