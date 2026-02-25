@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @woodwardmw
-- 👀 I’m interested in Data Science and Machine Learning, with a focus on Natural Language Processing in under-resourced languages
-- 🌱 I’m currently learning Python and NLP
-- 📫 How to reach me [twitter.com/DataScienceMW](https://twitter.com/DataScienceMW)
+## Hi, I'm Mark Woodward
 
-<!---
-woodwardmw/woodwardmw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Machine Learning Engineer at **SIL Global**, building and evaluating NLP and speech models for low-resource languages.
+
+### What I work on
+- Fine-tuning large multilingual models (NLLB, MADLAD, T5Gemma, TranslateGemma) for 50+ low-resource language pairs
+- ASR pipelines using MMS-1B and w2v-BERT-2.0 with multi-model ensemble methods
+- TTS fine-tuning with SpeechT5 and emotion-controlled training
+- Cross-attention word alignment extraction and evaluation
+- AQuA — a full-stack translation quality assessment platform with LLM-agentic critique
+- Production RAG systems with LlamaIndex and PGVector
+
+### Background
+- BA Mathematics, Cambridge University
+- 10+ years in technical leadership across East Africa before moving into ML
+- US citizen based in Poulsbo, WA
+
+### Get in touch
+- woodwardmw@gmail.com
