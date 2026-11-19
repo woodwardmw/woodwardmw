@@ -4,10 +4,11 @@ Principal AI Engineer at **[SIL Global](https://www.sil.org)**. I work on bringi
 
 ### What I'm working on now
 - **Paratext Translator's Assistant**: an AI assistant for Bible translators, built into [Paratext 10 / Platform.Bible](https://github.com/paranext), plus the server behind it. The server handles provider keys, usage metering and caching, and runs the AI pipelines.
+- **[Alpha2](https://multilingualai.com)**: a web app where language teams machine-translate text and generate speech. Its translation engines include Kilele, an in-context-learning LLM translator that drafts from examples retrieved from a team's own texts instead of fine-tuning.
 - **AERO**: a REST API for speech in low-resource languages. It covers ASR, forced alignment, voice conversion, denoising, audio infilling and speaker diarization.
 - **ASR and TTS**: fine-tuning speech recognition and text-to-speech models for low-resource languages, built on [w2v-BERT-2.0](https://huggingface.co/facebook/w2v-bert-2.0) and [SpeechT5](https://huggingface.co/microsoft/speecht5_tts).
 - **Translation quality and checking**: AQuA, our translation quality assessment platform, with LLM-agentic critique and back-translation checking.
-- **Faithbridge**: retrieval and LLM-generated synthetic text corpora for grounded, multilingual AI assistants.
+- **[Faithbridge](https://ai.sil.org/projects/faithbridge)**: an AI Q&A app that lets local-language translators ask questions by voice or text in 80 languages. Its answers are grounded in curated translation reference resources, with the sources cited.
 - **Platform**: serverless GPU inference on [Modal](https://modal.com), training on ClearML, and a shared observability stack (Loki, Prometheus, Tempo).
 
 ### Stack
